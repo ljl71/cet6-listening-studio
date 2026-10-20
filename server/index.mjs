@@ -7,6 +7,7 @@ import { spawn } from 'node:child_process';
 import { createStore, atomicJson } from './store.mjs';
 import { MERGED_NOTE_LIMIT, MERGED_REASON_LIMIT } from './sentence-aliases.mjs';
 import { writeZip } from './zip.mjs';
+import { createCollectionJobs } from './collection-jobs.mjs';
 import { HttpError, fail, identifier, annotationIdentifier, isObject, number, text, types, qualityKeys, validatePaper, validateTimings, validateAnswers } from './validation.mjs';
 
 const PROJECT_ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
@@ -90,6 +91,7 @@ export function createApp(options = {}) {
   const dataDir = path.resolve(options.dataDir || path.join(PROJECT_ROOT, 'data'));
   const distDir = path.resolve(options.distDir || path.join(PROJECT_ROOT, 'dist'));
   const store = createStore({ dataDir, now: options.now, automaticBackup: options.automaticBackup !== false });
+  const collection = createCollectionJobs({ dataDir, ...options.collectionOptions });
   const paperDirectory = path.join(dataDir, 'papers');
   const assetManifest = path.join(dataDir, 'assets.json');
   const readAssets = () => {
@@ -144,7 +146,7 @@ export function createApp(options = {}) {
     return readdirSync(directory, { withFileTypes: true }).flatMap(entry => {
       if (entry.isSymbolicLink()) return [];
       const relative = prefix ? `${prefix}/${entry.name}` : entry.name;
-      if (!prefix && ['backups', 'learning.sqlite', 'learning.sqlite-wal', 'learning.sqlite-shm'].includes(entry.name)) return [];
+      if (!prefix && ['backups', 'learning.sqlite', 'learning.sqlite-wal', 'learning.sqlite-shm', '.collection.lock'].includes(entry.name)) return [];
       if (entry.isDirectory()) return walkFiles(path.join(directory, entry.name), relative);
       if (!entry.isFile() || entry.name.endsWith('.part') || entry.name.endsWith('.tmp')) return [];
       return [{ name: `data/${relative}`, path: path.join(directory, entry.name) }];
@@ -152,6 +154,16 @@ export function createApp(options = {}) {
   }
   async function api(request, response, url) {
     const method = request.method, route = url.pathname;
+    if (method === 'GET' && route === '/api/collection') return send(response, 200, collection.snapshot());
+    if (method === 'POST' && route === '/api/collection') {
+      const body = await jsonBody(request);
+      const years = body.years ?? [];
+      if (Object.keys(body).some(key => key !== 'years') || !Array.isArray(years) || years.length > 7 || years.some(year => !Number.isInteger(year) || year < 2020 || year > 2026)) fail('请选择 2020—2026 年的资料');
+      return send(response, 202, collection.start({ years: [...new Set(years)] }));
+    }
+    if (method === 'POST' && route === '/api/collection/cancel') { await jsonBody(request); return send(response, 200, collection.cancel()); }
+    if (method === 'GET' && route === '/api/backup/full' && collection.isRunning()) fail('请先停止资料获取，再导出完整资料包，以保证文件一致。学习记录 JSON 仍可正常导出。', 409);
+    if (method !== 'GET' && (route === '/api/import' || /\/timing$/.test(route)) && collection.isRunning()) fail('正在获取资料，请先停止获取再导入或修改校对。学习记录仍可正常保存。', 409);
     if (method === 'GET' && route === '/api/health') {
       const values = papers(), required = values.filter(p => p.required), available = values.filter(ready);
       return send(response, 200, { app: 'cet6-listening-studio', version: VERSION, ready: required.length > 0 && required.every(ready), corpus: { total: values.length, ready: available.length, missing: values.length - available.length, years: [...new Set(values.map(p => p.year))].sort() } });
@@ -342,7 +354,7 @@ export function createApp(options = {}) {
       send(response, error.status || 500, { error: error.status ? error.message : '本地服务处理失败，请检查资料或重启服务' });
     }
   };
-  handler.store = store; handler.dataDir = dataDir; handler.close = () => store.close();
+  handler.store = store; handler.dataDir = dataDir; handler.close = () => { collection.close(); store.close(); };
   return handler;
 }
 
