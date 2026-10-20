@@ -1,0 +1,545 @@
+{
+  "id": "original-paper-template",
+  "title": "自制结构模板 · 非真题",
+  "year": 2025,
+  "month": 6,
+  "variant": "template",
+  "contentId": "original-paper-template-content",
+  "audioAssetId": null,
+  "duration": 0,
+  "required": false,
+  "sources": [],
+  "quality": {
+    "audio": "missing",
+    "questions": "candidate",
+    "answers": "candidate",
+    "transcript": "candidate",
+    "timing": "candidate"
+  },
+  "passages": [
+    {
+      "id": "template-p1",
+      "order": 1,
+      "type": "conversation",
+      "title": "自制结构占位 · 篇章1",
+      "start": 0,
+      "end": 0,
+      "sentences": [
+        {
+          "id": "template-p1-s1",
+          "start": 0,
+          "end": 0,
+          "text": "Replace this original placeholder with your own authorized transcript for passage 1.",
+          "reviewed": false
+        }
+      ]
+    },
+    {
+      "id": "template-p2",
+      "order": 2,
+      "type": "conversation",
+      "title": "自制结构占位 · 篇章2",
+      "start": 0,
+      "end": 0,
+      "sentences": [
+        {
+          "id": "template-p2-s1",
+          "start": 0,
+          "end": 0,
+          "text": "Replace this original placeholder with your own authorized transcript for passage 2.",
+          "reviewed": false
+        }
+      ]
+    },
+    {
+      "id": "template-p3",
+      "order": 3,
+      "type": "passage",
+      "title": "自制结构占位 · 篇章3",
+      "start": 0,
+      "end": 0,
+      "sentences": [
+        {
+          "id": "template-p3-s1",
+          "start": 0,
+          "end": 0,
+          "text": "Replace this original placeholder with your own authorized transcript for passage 3.",
+          "reviewed": false
+        }
+      ]
+    },
+    {
+      "id": "template-p4",
+      "order": 4,
+      "type": "passage",
+      "title": "自制结构占位 · 篇章4",
+      "start": 0,
+      "end": 0,
+      "sentences": [
+        {
+          "id": "template-p4-s1",
+          "start": 0,
+          "end": 0,
+          "text": "Replace this original placeholder with your own authorized transcript for passage 4.",
+          "reviewed": false
+        }
+      ]
+    },
+    {
+      "id": "template-p5",
+      "order": 5,
+      "type": "lecture",
+      "title": "自制结构占位 · 篇章5",
+      "start": 0,
+      "end": 0,
+      "sentences": [
+        {
+          "id": "template-p5-s1",
+          "start": 0,
+          "end": 0,
+          "text": "Replace this original placeholder with your own authorized transcript for passage 5.",
+          "reviewed": false
+        }
+      ]
+    },
+    {
+      "id": "template-p6",
+      "order": 6,
+      "type": "lecture",
+      "title": "自制结构占位 · 篇章6",
+      "start": 0,
+      "end": 0,
+      "sentences": [
+        {
+          "id": "template-p6-s1",
+          "start": 0,
+          "end": 0,
+          "text": "Replace this original placeholder with your own authorized transcript for passage 6.",
+          "reviewed": false
+        }
+      ]
+    },
+    {
+      "id": "template-p7",
+      "order": 7,
+      "type": "lecture",
+      "title": "自制结构占位 · 篇章7",
+      "start": 0,
+      "end": 0,
+      "sentences": [
+        {
+          "id": "template-p7-s1",
+          "start": 0,
+          "end": 0,
+          "text": "Replace this original placeholder with your own authorized transcript for passage 7.",
+          "reviewed": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "template-q1",
+      "number": 1,
+      "passageId": "template-p1",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p1-s1"
+      ]
+    },
+    {
+      "id": "template-q2",
+      "number": 2,
+      "passageId": "template-p1",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p1-s1"
+      ]
+    },
+    {
+      "id": "template-q3",
+      "number": 3,
+      "passageId": "template-p1",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p1-s1"
+      ]
+    },
+    {
+      "id": "template-q4",
+      "number": 4,
+      "passageId": "template-p1",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p1-s1"
+      ]
+    },
+    {
+      "id": "template-q5",
+      "number": 5,
+      "passageId": "template-p2",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p2-s1"
+      ]
+    },
+    {
+      "id": "template-q6",
+      "number": 6,
+      "passageId": "template-p2",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p2-s1"
+      ]
+    },
+    {
+      "id": "template-q7",
+      "number": 7,
+      "passageId": "template-p2",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p2-s1"
+      ]
+    },
+    {
+      "id": "template-q8",
+      "number": 8,
+      "passageId": "template-p2",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p2-s1"
+      ]
+    },
+    {
+      "id": "template-q9",
+      "number": 9,
+      "passageId": "template-p3",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p3-s1"
+      ]
+    },
+    {
+      "id": "template-q10",
+      "number": 10,
+      "passageId": "template-p3",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p3-s1"
+      ]
+    },
+    {
+      "id": "template-q11",
+      "number": 11,
+      "passageId": "template-p3",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p3-s1"
+      ]
+    },
+    {
+      "id": "template-q12",
+      "number": 12,
+      "passageId": "template-p4",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p4-s1"
+      ]
+    },
+    {
+      "id": "template-q13",
+      "number": 13,
+      "passageId": "template-p4",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p4-s1"
+      ]
+    },
+    {
+      "id": "template-q14",
+      "number": 14,
+      "passageId": "template-p4",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p4-s1"
+      ]
+    },
+    {
+      "id": "template-q15",
+      "number": 15,
+      "passageId": "template-p4",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p4-s1"
+      ]
+    },
+    {
+      "id": "template-q16",
+      "number": 16,
+      "passageId": "template-p5",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p5-s1"
+      ]
+    },
+    {
+      "id": "template-q17",
+      "number": 17,
+      "passageId": "template-p5",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p5-s1"
+      ]
+    },
+    {
+      "id": "template-q18",
+      "number": 18,
+      "passageId": "template-p5",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p5-s1"
+      ]
+    },
+    {
+      "id": "template-q19",
+      "number": 19,
+      "passageId": "template-p6",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p6-s1"
+      ]
+    },
+    {
+      "id": "template-q20",
+      "number": 20,
+      "passageId": "template-p6",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p6-s1"
+      ]
+    },
+    {
+      "id": "template-q21",
+      "number": 21,
+      "passageId": "template-p6",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p6-s1"
+      ]
+    },
+    {
+      "id": "template-q22",
+      "number": 22,
+      "passageId": "template-p7",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p7-s1"
+      ]
+    },
+    {
+      "id": "template-q23",
+      "number": 23,
+      "passageId": "template-p7",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p7-s1"
+      ]
+    },
+    {
+      "id": "template-q24",
+      "number": 24,
+      "passageId": "template-p7",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p7-s1"
+      ]
+    },
+    {
+      "id": "template-q25",
+      "number": 25,
+      "passageId": "template-p7",
+      "options": {
+        "A": "Your original option A",
+        "B": "Your original option B",
+        "C": "Your original option C",
+        "D": "Your original option D"
+      },
+      "answer": "A",
+      "explanation": "Placeholder only. Replace with your independently checked explanation.",
+      "evidenceSentenceIds": [
+        "template-p7-s1"
+      ]
+    }
+  ],
+  "notes": [
+    "全部内容均为结构占位。请替换、填写实际音频时长并校对；A不是实际答案。"
+  ]
+}

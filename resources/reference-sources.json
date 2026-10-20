@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-20",
+  "originalFilesIncluded": false,
+  "records": [
+    {
+      "paperId": "cet6-2025-12-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2025-12-1",
+      "fileName": "cet6-2025-12-1-independent-transcript-wordcram.html",
+      "bytes": 139519,
+      "sha256": "1108c9c6a80d174ca2db445cd97227310dfff4c2551c57f4e93d4ae31a7113a1",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2025-12-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2025-12-2",
+      "fileName": "cet6-2025-12-2-independent-transcript-wordcram.html",
+      "bytes": 162459,
+      "sha256": "5a7e65c8b94e65b1dc6cb811e6131a156431708f0af66578d8416b67ffb269ed",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2025-06-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2025-06-1",
+      "fileName": "cet6-2025-06-1-independent-transcript-wordcram.html",
+      "bytes": 153923,
+      "sha256": "64efa63d5948d82787ebab6793701e552b052d26cb32b3b11b06f5dc72a8a476",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2025-06-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2025-06-2",
+      "fileName": "cet6-2025-06-2-independent-transcript-wordcram.html",
+      "bytes": 164413,
+      "sha256": "f3d2c00ef902e6fd358ca7d405cb5211ffc83a1301e8532b772908b37f013a77",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2024-06-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2024-06-1",
+      "fileName": "cet6-2024-06-1-independent-transcript-wordcram.html",
+      "bytes": 159592,
+      "sha256": "f7ffa43ab2ac874785967ac4a463254d8f66b536ec3943f6d41aaf534b8210fa",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2024-06-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2024-06-2",
+      "fileName": "cet6-2024-06-2-independent-transcript-wordcram.html",
+      "bytes": 154961,
+      "sha256": "7076e08d09084ff241cc96b216a60792de6f41fe5459a568d84d1fdfa683b66e",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2024-12-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2024-12-1",
+      "fileName": "cet6-2024-12-1-independent-transcript-wordcram.html",
+      "bytes": 162090,
+      "sha256": "2ce3b05e951f1650393f8c7e80de36a92b22072c31066ab393099fc011446d52",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2024-12-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2024-12-2",
+      "fileName": "cet6-2024-12-2-independent-transcript-wordcram.html",
+      "bytes": 158852,
+      "sha256": "b4b316f2a8378ee23de649b9f2b104b5835f6cd49b81971106e6a8b8b763fb25",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2023-03-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2023-03-1",
+      "fileName": "cet6-2023-03-1-independent-transcript-wordcram.html",
+      "bytes": 161014,
+      "sha256": "021fe279c03273b917a0c4d30329a1e7c36d83bdd0340d4aa0e0a640535f30bf",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2023-06-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2023-06-1",
+      "fileName": "cet6-2023-06-1-independent-transcript-wordcram.html",
+      "bytes": 161584,
+      "sha256": "882857ce82ac53fdc460e3d3a48c4f89eeb5372c6981931284fbdd11cd44d3bb",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2023-06-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2023-06-2",
+      "fileName": "cet6-2023-06-2-independent-transcript-wordcram.html",
+      "bytes": 159894,
+      "sha256": "ac4bc2f7c24ff8e8cecd6a0da3469314f86489ffcbd269f8b47a4c6a170abe05",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2023-12-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2023-12-1",
+      "fileName": "cet6-2023-12-1-independent-transcript-wordcram.html",
+      "bytes": 170250,
+      "sha256": "d5854a8b377766b655e0dc467efb022bb2e2c3d089ae18a38ddc7bac7df35edd",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2023-12-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2023-12-2",
+      "fileName": "cet6-2023-12-2-independent-transcript-wordcram.html",
+      "bytes": 157303,
+      "sha256": "5308262511398b54b49d6d710c3ed8fcaa4bc1e556895a68c229bb7d113b4850",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2022-06-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2022-06-1",
+      "fileName": "cet6-2022-06-1-independent-transcript-wordcram.html",
+      "bytes": 153016,
+      "sha256": "a4d38b739ec7ffa520aa34430b3f2d66a200c84aea3dfc8706b527cfcd05213f",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2022-09-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2022-09-1",
+      "fileName": "cet6-2022-09-1-independent-transcript-wordcram.html",
+      "bytes": 165187,
+      "sha256": "e11802ff3f87447243a961dfa7da1916f5895bdcd28e771d45edb0b2d6fa8fa0",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2022-12-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2022-12-1",
+      "fileName": "cet6-2022-12-1-independent-transcript-wordcram.html",
+      "bytes": 153992,
+      "sha256": "c3eaac3a9a0fa26ba0f0084da387c94af377cc034af1023528ab0b7d25cb3f38",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2022-12-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2022-12-2",
+      "fileName": "cet6-2022-12-2-independent-transcript-wordcram.html",
+      "bytes": 155902,
+      "sha256": "c0ccbaef5f8b5821a9e8d5a303a888e4f1701fe44718cf74d8d69ebaa2cfa038",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2021-06-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2021-06-1",
+      "fileName": "cet6-2021-06-1-independent-transcript-wordcram.html",
+      "bytes": 159719,
+      "sha256": "5f8fbf995718d6b0600703f24135b80a94e794fa1d46cdf9aff93a1b8aae123f",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2021-06-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2021-06-2",
+      "fileName": "cet6-2021-06-2-independent-transcript-wordcram.html",
+      "bytes": 160629,
+      "sha256": "33bd92e3a6960943dea3528032daed8b88e96eff5a798f354962c6f684207c4a",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2021-12-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2021-12-1",
+      "fileName": "cet6-2021-12-1-independent-transcript-wordcram.html",
+      "bytes": 160862,
+      "sha256": "da04fe3913ace0bbc63fd7e0a529baafe4733a0efe13aeef727be61a4b9ad419",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2021-12-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2021-12-2",
+      "fileName": "cet6-2021-12-2-independent-transcript-wordcram.html",
+      "bytes": 151272,
+      "sha256": "dce286fcf7a58909796455bdecd75be72b0648b86acf3d05c0c32a35073896e4",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2020-07-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2020-07-1",
+      "fileName": "cet6-2020-07-1-independent-transcript-wordcram.html",
+      "bytes": 160035,
+      "sha256": "a4d437244a78646ad3b28b5f4b923401f93ad3f9c9b3c005ca6ca0bfe5a736ed",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2020-09-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2020-09-1",
+      "fileName": "cet6-2020-09-1-independent-transcript-wordcram.html",
+      "bytes": 158218,
+      "sha256": "925ec874218236d44fd98c3aa5f4e66ff532fd399e7acdb49f5c2a30ee00e3f2",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2020-12-1",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2020-12-1",
+      "fileName": "cet6-2020-12-1-independent-transcript-wordcram.html",
+      "bytes": 160547,
+      "sha256": "6af9386b85b844d73397fa314981b8b7dce4ae1342c00c90fe1b039148189b89",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2020-12-2",
+      "url": "https://wordcram.com.cn/tests/cet6/listening/2020-12-2",
+      "fileName": "cet6-2020-12-2-independent-transcript-wordcram.html",
+      "bytes": 161547,
+      "sha256": "d8698af7dde3ef6446fb76c93091589f09684bc6ae2d50d8604b4eee0427f7b2",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2020-09-1",
+      "url": "https://mtoutiao.xdf.cn/cet4-6/202009/11109073.html",
+      "fileName": "cet6-2020-09-1-independent-transcript-xdf.html",
+      "bytes": 74919,
+      "sha256": "7e5465a05f20b5ced5dd5085745ecc8c4259445e5116630f84816a40978078e1",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2020-09-1",
+      "url": "https://file.xdf.cn/uploads/200922/1581_200922170109TdfJW63bRkzStHSS.pdf",
+      "fileName": "cet6-2020-09-1-independent-transcript-xdf.pdf",
+      "bytes": 525205,
+      "sha256": "285f09355b9b13a65b740740af4665df5651963dcf4568915cf19227a205a440",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2026-06-1",
+      "url": "https://pan.uvooc.com/Learn/CET/CET6/2026%E5%B9%B406%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B%E5%8F%8A%E8%A7%A3%E6%9E%90",
+      "fileName": "2026年06月大学英语6级真题解析（卷一）.pdf",
+      "bytes": 28714191,
+      "sha256": "4cd7e44bdbe55fb17ced99568ee013b93f94e15ca192aa9bd69ffae80d0fd679",
+      "kind": "reference-pdf",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2026-06-2",
+      "url": "https://pan.uvooc.com/Learn/CET/CET6/2026%E5%B9%B406%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B%E5%8F%8A%E8%A7%A3%E6%9E%90",
+      "fileName": "2026年06月大学英语6级真题解析（卷二）.pdf",
+      "bytes": 25411473,
+      "sha256": "495df29062697ed502f39f449f21004da17d588391c301ff9ac5ac4cc1239c14",
+      "kind": "reference-pdf",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    },
+    {
+      "paperId": "cet6-2025-12-1",
+      "url": "https://pan.uvooc.com/Learn/CET/CET6/2025%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%90%AC%E5%8A%9B%E5%8F%8A%E8%A7%A3%E6%9E%90",
+      "fileName": "2025年12月大学英语6级真题解析（全三套）.pdf",
+      "bytes": 45413272,
+      "sha256": "7fb9c9f4730eac9e57d43ada0ddda98bcf1147a6c181586bc134c858e0e0f8e7",
+      "kind": "reference-pdf",
+      "redistributionPermission": "not-confirmed-original-not-published"
+    }
+  ]
+}

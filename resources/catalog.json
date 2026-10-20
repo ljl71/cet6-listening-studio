@@ -1,0 +1,1912 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-20",
+  "scope": "2020–2025 六个完整年份，增补 2026 年 6 月",
+  "originalFilesIncluded": false,
+  "formalDeliveryPassed": false,
+  "entries": [
+    {
+      "id": "cet6-2026-06-1",
+      "title": "2026 年 6 月 · 第 1 套",
+      "year": 2026,
+      "month": 6,
+      "variant": "1",
+      "actualDate": "2026-06-13",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 130
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "43e233f2262e23cba840b37e7e38dabccd1f97821834f8f2d401688fced044f6",
+        "bytes": 12642030,
+        "durationSeconds": 1495.806259,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/234/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2026_06_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2026_06_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2603/2-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2026-06-2",
+      "title": "2026 年 6 月 · 第 2 套",
+      "year": 2026,
+      "month": 6,
+      "variant": "2",
+      "actualDate": "2026-06-13",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 139
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "0932836515761d2c5643c11c9508cd31ee759c153ab00de7a49034aa488a7734",
+        "bytes": 12905439,
+        "durationSeconds": 1587.40898,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/235/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2026-06-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2026_06_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2026_06_2/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2603/2-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2025-12-1",
+      "title": "2025 年 12 月 · 第 1 套",
+      "year": 2025,
+      "month": 12,
+      "variant": "1",
+      "actualDate": "2025-12-13",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 150
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "13ca9e22d71ce128092045896e813d336d7f763d6e55f2d6f7957e869df6e16b",
+        "bytes": 10025936,
+        "durationSeconds": 1543.244626,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/225/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_12_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_12_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2509/26-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2025-12-2",
+      "title": "2025 年 12 月 · 第 2 套",
+      "year": 2025,
+      "month": 12,
+      "variant": "2",
+      "actualDate": "2025-12-13",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 156
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "c3a5d7860ede5170fdf9b28b27a275186121687a26c22558d27aa084441c102f",
+        "bytes": 10174690,
+        "durationSeconds": 1554.413424,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/226/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_12_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_12_2/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2509/26-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2025-06-1",
+      "title": "2025 年 6 月 · 第 1 套",
+      "year": 2025,
+      "month": 6,
+      "variant": "1",
+      "actualDate": "2025-06-14",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 161
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "3335018a8329988e25535994cad7c46af2acc27b02a206297d093c9fce1190e8",
+        "bytes": 13154051,
+        "durationSeconds": 1558.058957,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/219/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_06_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_06_1/answers"
+        },
+        {
+          "label": "南京大学公开六级自测原卷 · 第4/12题",
+          "kind": "questions",
+          "url": "https://eol.nju.edu.cn/cet6/papers/202506-1.html"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2503/19-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2025-06-2",
+      "title": "2025 年 6 月 · 第 2 套",
+      "year": 2025,
+      "month": 6,
+      "variant": "2",
+      "actualDate": "2025-06-14",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 166
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "d9bdd265ce6e7ab889d89e60db918ec26bdcfd76c5acb79365743467575f0644",
+        "bytes": 10572789,
+        "durationSeconds": 1567.718458,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/220/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_06_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2025_06_2/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2503/19-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2024-12-1",
+      "title": "2024 年 12 月 · 第 1 套",
+      "year": 2024,
+      "month": 12,
+      "variant": "1",
+      "actualDate": "2024-12-14",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 163
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "047cf445f32cd2456d434215d5d299f8c337ec13bd67f96bcf22ceb7168f3885",
+        "bytes": 13961570,
+        "durationSeconds": 1664.847551,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/207/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_12_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_12_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2409/8-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2024-12-2",
+      "title": "2024 年 12 月 · 第 2 套",
+      "year": 2024,
+      "month": 12,
+      "variant": "2",
+      "actualDate": "2024-12-14",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 149
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "8b999fa20ca6c2dcc013eeed60829d4edb0125d7c14fdf87e1733b9129491e8b",
+        "bytes": 10892187,
+        "durationSeconds": 1639.653878,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/208/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_12_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_12_2/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2409/8-1.htm"
+        },
+        {
+          "label": "新东方公开当日六级听力原文 · 局部原文纠错",
+          "kind": "transcript",
+          "url": "https://m.koolearn.com/cet6/20241214/893921.html"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2024-06-1",
+      "title": "2024 年 6 月 · 第 1 套",
+      "year": 2024,
+      "month": 6,
+      "variant": "1",
+      "actualDate": "2024-06-15",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 145
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "2402e0e61feae0e9673bb297997d3d29379d13dc10c61fa3c02bf384398da283",
+        "bytes": 10864572,
+        "durationSeconds": 1619.452517,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/204/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_06_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_06_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2403/75-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2024-06-2",
+      "title": "2024 年 6 月 · 第 2 套",
+      "year": 2024,
+      "month": 6,
+      "variant": "2",
+      "actualDate": "2024-06-15",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 131
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "f4b28eb25bfb327ae536aa25f5bc1d0ea403849e18d823eedacb74b6b34bf94c",
+        "bytes": 10651433,
+        "durationSeconds": 1548.515556,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/205/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_06_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2024_06_2/answers"
+        },
+        {
+          "label": "郑州工商学院公开六级原卷 PDF · 第1页第7题",
+          "kind": "questions",
+          "url": "https://xxgcxy.ztbu.edu.cn/attachment/sites/item/2024_11/05_17/48925a74ccee4639.pdf"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2403/75-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2023-12-1",
+      "title": "2023 年 12 月 · 第 1 套",
+      "year": 2023,
+      "month": 12,
+      "variant": "1",
+      "actualDate": "2023-12-16",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 157
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "fb3817511508d5e3fbc6be1ef71f6b918630e83436184d4d3a0afb21b32bcada",
+        "bytes": 13071476,
+        "durationSeconds": 1564.839184,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/127/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_12_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_12_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://cet.neea.edu.cn/html1/report/2309/7-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2023-12-2",
+      "title": "2023 年 12 月 · 第 2 套",
+      "year": 2023,
+      "month": 12,
+      "variant": "2",
+      "actualDate": "2023-12-16",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 168
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "b9e87acec2fed3bdd28c4d84b02735a00ffd8450a3cecd754128e8e2d99cb775",
+        "bytes": 10432250,
+        "durationSeconds": 1564.189025,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/126/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_12_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_12_2/answers"
+        },
+        {
+          "label": "新东方在线教师整理 · 2023年12月六级听力第二套",
+          "kind": "answers",
+          "url": "https://cet6.koolearn.com/20231216/881799.html"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://cet.neea.edu.cn/html1/report/2309/7-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2023-06-1",
+      "title": "2023 年 6 月 · 第 1 套",
+      "year": 2023,
+      "month": 6,
+      "variant": "1",
+      "actualDate": "2023-06-17",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 151
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "b7c6ce037d57f75352887c6a9d6862e53d4bc2ed021dca99ca8ef02222d7bc02",
+        "bytes": 13827845,
+        "durationSeconds": 1652.842812,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/124/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_06_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_06_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2303/329-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2023-06-2",
+      "title": "2023 年 6 月 · 第 2 套",
+      "year": 2023,
+      "month": 6,
+      "variant": "2",
+      "actualDate": "2023-06-17",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 147
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "c259944ceb5b2b5ba6f2613efee443aa1ffcaae746da464910cab2353d1b224a",
+        "bytes": 11168085,
+        "durationSeconds": 1653.144671,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/123/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_06_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_06_2/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2303/329-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2023-03-1",
+      "title": "2023 年 3 月 · 第 1 套",
+      "year": 2023,
+      "month": 3,
+      "variant": "1",
+      "actualDate": "2023-03-12",
+      "originalPeriod": "2022 年下半年加考",
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 156
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "a1dac4a5634a2283d120ab63b153468c61d7da3dc8b63eb32d5586badb3eb158",
+        "bytes": 10606675,
+        "durationSeconds": 1575.079184,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/121/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-03-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-03-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-03-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-03-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_03_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2023_03_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.sceea.cn/Html/202303/Newsdetail_3026.html"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2022-12-1",
+      "title": "2022 年 12 月 · 第 1 套",
+      "year": 2022,
+      "month": 12,
+      "variant": "1",
+      "actualDate": "2022-12-10",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 136
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "c0388efc4122652d7f34319225f967800b2aad62fb04f736c8ff4e8cabf944b0",
+        "bytes": 13685516,
+        "durationSeconds": 1635.660045,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/118/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_12_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_12_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2209/180-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2022-12-2",
+      "title": "2022 年 12 月 · 第 2 套",
+      "year": 2022,
+      "month": 12,
+      "variant": "2",
+      "actualDate": "2022-12-10",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 160
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "e8fbe5ef0c01283f67841fd8eea85128e7f6a66e67bdcea7d42bbda917980df5",
+        "bytes": 11209086,
+        "durationSeconds": 1586.062222,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/117/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_12_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_12_2/answers"
+        },
+        {
+          "label": "2022年12月原卷公开PDF预览（第1题完整选项）",
+          "kind": "questions",
+          "url": "https://www.yeyulingfeng.com/wendang/75034.html"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/2209/180-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2022-09-1",
+      "title": "2022 年 9 月 · 第 1 套",
+      "year": 2022,
+      "month": 9,
+      "variant": "1",
+      "actualDate": "2022-09-17",
+      "originalPeriod": "2022 年上半年第二次考试",
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 161
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "9c8286b7c3656b5483d37564ab216f7a8f7d590428bc2d71cf6cb84f15daf9d8",
+        "bytes": 13568312,
+        "durationSeconds": 1633.872109,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/115/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_09_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_09_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://jiaowu.ruc.edu.cn/xsym/ksycjxs/tzgg/a5403a622ba54fe0b88417bc90d6e59e.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2022-06-1",
+      "title": "2022 年 6 月 · 第 1 套",
+      "year": 2022,
+      "month": 6,
+      "variant": "1",
+      "actualDate": "2022-06-11",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 157
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "49492ed42a06da8655115251d6aa2c0a2def1e7223ac172a794c3b3bc5429ad0",
+        "bytes": 10791164,
+        "durationSeconds": 1707.943787,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/112/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_06_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2022_06_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/22031/2900-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2021-12-1",
+      "title": "2021 年 12 月 · 第 1 套",
+      "year": 2021,
+      "month": 12,
+      "variant": "1",
+      "actualDate": "2021-12-18",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 163
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "5d184214579a0eb6bb937084f9e5377733494d0446c9f143da4008722c8b26d6",
+        "bytes": 10361294,
+        "durationSeconds": 1576.124082,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/109/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+        },
+        {
+          "label": "过级鸭 · 按25题内容确认跨站套号对换",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_12_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_12_2/answers"
+        },
+        {
+          "label": "2021年12月公开原卷 Word 排版预览",
+          "kind": "questions",
+          "url": "https://www.yeyulingfeng.com/wendang/74929.html"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/21091/8099-1.htm"
+        },
+        {
+          "label": "新东方公开当日六级听力原文 · 局部原文纠错",
+          "kind": "transcript",
+          "url": "https://cet4-6.xdf.cn/202112/11348898.html"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2021-12-2",
+      "title": "2021 年 12 月 · 第 2 套",
+      "year": 2021,
+      "month": 12,
+      "variant": "2",
+      "actualDate": "2021-12-18",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 155
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "05cd49ede8531b87240f4142b22a6d531651b030dd197c97c00dd5a918c8f1fb",
+        "bytes": 10461645,
+        "durationSeconds": 1617.618163,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/108/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-2/"
+        },
+        {
+          "label": "过级鸭 · 按25题内容确认跨站套号对换",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_12_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_12_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/21091/8099-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2021-06-1",
+      "title": "2021 年 6 月 · 第 1 套",
+      "year": 2021,
+      "month": 6,
+      "variant": "1",
+      "actualDate": "2021-06-12",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 168
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "4899d3c7e0236a6198627238262b216bcc716e3ebc5bd14dce4c8ebf6ad00098",
+        "bytes": 14415085,
+        "durationSeconds": 1690.180499,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/106/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_06_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_06_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/21031/4511-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2021-06-2",
+      "title": "2021 年 6 月 · 第 2 套",
+      "year": 2021,
+      "month": 6,
+      "variant": "2",
+      "actualDate": "2021-06-12",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 151
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "35fbe93b2c7663a616d6f4217c6a105a3aa0ef9d7e9af607dfa5562b3571583a",
+        "bytes": 11671946,
+        "durationSeconds": 1702.185215,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/105/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_06_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2021_06_2/answers"
+        },
+        {
+          "label": "星火英语 · 2021年6月12日听力答案（沪江转载）",
+          "kind": "answers",
+          "url": "https://m.hujiang.com/en_yingxiangli/p1348590/"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/21031/4511-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2020-12-1",
+      "title": "2020 年 12 月 · 第 1 套",
+      "year": 2020,
+      "month": 12,
+      "variant": "1",
+      "actualDate": "2020-12-12",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 159
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "b5d0cfff052c46789e928d0cedea8a156a3cb39a3e0113ce97033603de134cc0",
+        "bytes": 12614490,
+        "durationSeconds": 1540.551111,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/103/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_12_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_12_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/20091/5906-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2020-12-2",
+      "title": "2020 年 12 月 · 第 2 套",
+      "year": 2020,
+      "month": 12,
+      "variant": "2",
+      "actualDate": "2020-12-12",
+      "originalPeriod": null,
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 158
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "5451cd5c5f1a624054cb8c300e050f3686f59792d9950bbf2f68a3a53eefe24d",
+        "bytes": 10764454,
+        "durationSeconds": 1600.249615,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/102/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-2/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-2/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_12_2/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_12_2/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/20091/5906-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2020-09-1",
+      "title": "2020 年 9 月 · 第 1 套",
+      "year": 2020,
+      "month": 9,
+      "variant": "1",
+      "actualDate": "2020-09-19",
+      "originalPeriod": "2020 年上半年延期考试",
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 155
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "8b5687dc5a72b70d3d20ce262d20b39f0f2282c866d1b45022b5749c08563c81",
+        "bytes": 13095985,
+        "durationSeconds": 1576.100862,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/100/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_09_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_09_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/20053/4021-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2020-07-1",
+      "title": "2020 年 7 月 · 第 1 套",
+      "year": 2020,
+      "month": 7,
+      "variant": "1",
+      "actualDate": "2020-07-11",
+      "originalPeriod": "2020 年上半年延期考试",
+      "counts": {
+        "questions": 25,
+        "passages": 7,
+        "sentences": 146
+      },
+      "quality": {
+        "audio": "verified",
+        "questions": "verified",
+        "answers": "verified",
+        "transcript": "candidate",
+        "timing": "candidate"
+      },
+      "audio": {
+        "sha256": "0006b1a578a37849c69283583bb5cbe60e37672b08738aaeeee239e55e3f214f",
+        "bytes": 13493371,
+        "durationSeconds": 1612.231111,
+        "mime": "audio/mp4"
+      },
+      "sources": [
+        {
+          "label": "懒笔记公开整套听力 VOD",
+          "kind": "audio",
+          "url": "https://listening.lazynote.cn/cet6/97/index.m3u8"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "questions",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "answers",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "transcript",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+        },
+        {
+          "label": "懒笔记公开真题整理",
+          "kind": "timing",
+          "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+        },
+        {
+          "label": "过级鸭 · 逐题选项内容映射核对",
+          "kind": "answers",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_07_1/answers"
+        },
+        {
+          "label": "过级鸭 · 原题选项逐项核对",
+          "kind": "questions",
+          "url": "https://www.guojiya.cn/exam/cet6_2020_07_1/answers"
+        },
+        {
+          "label": "考试日期公告（教育考试机构 / 考点通知）",
+          "kind": "catalog",
+          "url": "https://www.neea.edu.cn/html1/report/20053/4021-1.htm"
+        }
+      ]
+    }
+  ]
+}

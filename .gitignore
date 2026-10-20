@@ -1,0 +1,34 @@
+node_modules/
+dist/
+runtime/
+
+# Local corpus, third-party originals, audio, personal records and evidence.
+/data/
+/server/.test-temp/
+/IMPLEMENTATION_CONTRACT.md
+
+# Only deliberately prepared documentation images are published.
+/docs/*
+!/docs/images/
+
+# Credentials, backups and generated assets must never enter Git history.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.zip
+*.7z
+*.part
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
